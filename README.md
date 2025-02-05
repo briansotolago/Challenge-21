@@ -60,7 +60,7 @@ The application is deployed on Render with a MongoDB database hosted on MongoDB 
 
 ## Repo
 
-[GitHub Repo](https://github.com/briansoto23/Challenge-21)
+[GitHub Repo](https://github.com/briansotolago/Google_Books_Search)
 
 ## License
 
